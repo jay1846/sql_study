@@ -1,0 +1,12 @@
+# Environment / secrets
+.env
+*.pem
+
+# Course datasets (download locally, do not redistribute)
+datasets/**/*.csv
+
+# OS files
+.DS_Store
+
+# Editor
+.vscode/

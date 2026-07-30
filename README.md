@@ -74,8 +74,8 @@ sql-learning-journey/
 | # | Section | Status |
 |---|---|---|
 | 01 | Introduction and Environment Setup | Done |
-| 02 | SELECT Query | Not started |
-| 03 | Data Definition (DDL) | Not started |
+| 02 | SELECT Query | Done |
+| 03 | Data Definition (DDL) | Done |
 | 04 | Data Manipulation (DML) | Not started |
 | 05 | Filtering Data | Not started |
 | 06 | SQL Joins | Not started |

@@ -10,3 +10,6 @@ datasets/**/*.csv
 
 # Editor
 .vscode/
+
+# Course-provided SQL scripts (not redistributed)
+scripts/**/init-*.sql

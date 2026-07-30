@@ -1,0 +1,1 @@
+-- alter : we can change the definition of the table

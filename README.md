@@ -76,7 +76,7 @@ sql-learning-journey/
 | 01 | Introduction and Environment Setup | Done |
 | 02 | SELECT Query | Done |
 | 03 | Data Definition (DDL) | Done |
-| 04 | Data Manipulation (DML) | Not started |
+| 04 | Data Manipulation (DML) | Done |
 | 05 | Filtering Data | Not started |
 | 06 | SQL Joins | Not started |
 | 07 | SQL Set Operators | Not started |
